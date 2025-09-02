@@ -1,6 +1,6 @@
 {
   "name": "querymen",
-  "version": "2.1.4",
+  "version": "2.1.4-lineaje-01",
   "description": "Querystring parser middleware for MongoDB, Express and Nodejs",
   "main": "dist/index.js",
   "files": [
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/diegohaz/querymen.git"
+    "url": "https://github.com/lineaje-labs-gos/querymen"
   },
   "keywords": [
     "mongo",
@@ -44,6 +44,12 @@
   ],
   "author": "Diego Haz <hazdiego@gmail.com>",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/diegohaz/querymen/issues"
   },
